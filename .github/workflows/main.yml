@@ -47,4 +47,3 @@ jobs:
     # Checks that all Terraform configuration files validate
     - name: Terraform Validate
       run: terraform validate
-      working-directory: ${{ matrix.directory }}
