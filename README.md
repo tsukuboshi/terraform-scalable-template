@@ -8,7 +8,7 @@ This repository contains terraform template for scalable architecture.
 
 ## Diagram
 
-![Diagram](./images/diagram.png)
+![Diagram](./images/diagram.drawio.png)
 
 &emsp;
 
